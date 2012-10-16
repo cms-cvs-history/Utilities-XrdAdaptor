@@ -5,4 +5,5 @@
 <use   name="FWCore/Utilities"/>
 <use   name="FWCore/MessageLogger"/>
 <use   name="xrootd"/>
+<lib   name="XrdCl"/>
 <flags   CPPDEFINES="_FILE_OFFSET_BITS=64"/>
